@@ -5,7 +5,7 @@ This project is a data cleaning project focused on Nashville housing data. The d
 
 The data was cleaned using T-SQL, a programming language used for managing and manipulating data in relational databases. The cleaning process involved removing duplicate records, correcting misspelled names, converting data types, and filling in missing values,Breaking out Address into Individual Columns
 
-The cleaned data set is available in the 'cleaned_data' folder of this repository. The data is stored in a CSV file format for easy access and analysis.
+The data set is available in the 'Nashville Housing Data for Data Ceaning' folder of this repository. The data is stored in a xlsx file format for easy access and analysis.
 
 The purpose of this project is to provide a clean and reliable data set for further analysis and modeling. The cleaned data set can be used to build predictive models or to gain insights into Nashville's housing market.
 
